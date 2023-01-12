@@ -8,5 +8,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [rlopresti7](https://www.rloprest.codecorner.ca)
+- Website - [rlopresti.codecorner.ca](https://www.rlopresti.codecorner.ca)
 - Frontend Mentor - [@rlopresti7](https://www.frontendmentor.io/profile/yourusername)
